@@ -59,15 +59,13 @@ This project uses the **Spinal-AI2024** dataset, which provides spinal radiograp
 
 ```text
 .
-├── notebooks/
-├── models/
-├── training/
-├── inference/
-├── results/
+├── .gitignore
+├── CITATION.cff
+├── LICENSE
 ├── README.md
+├── automated_scoliosis_detection_classification.ipynb
+└── requirements.txt
 ```
-
----
 
 ## Authors
 
