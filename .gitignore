@@ -1,0 +1,31 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Local environment files
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Trained model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# Dataset downloaded by the notebook
+Spinal-AI2024/
+data/Spinal-AI2024/
+
+# Compressed archives
+*.zip
