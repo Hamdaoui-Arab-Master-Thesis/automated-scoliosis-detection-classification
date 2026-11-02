@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the information provided in this file."
+type: software
+title: "Scoliosis Severity Assessment from Spinal X-rays: Mask R-CNN Vertebra Segmentation and Geometric Cobb Angle Estimation"
+
+authors:
+  - family-names: "ARAB"
+    given-names: "Malha-Thilelli"
+    affiliation: "Mouloud Mammeri University of Tizi Ouzou, Algeria"
+  - family-names: "HAMDAOUI"
+    given-names: "Manel"
+    affiliation: "Mouloud Mammeri University of Tizi Ouzou, Algeria"
+
+abstract: >-
+  Research software developed as part of a Master's thesis at
+  Mouloud Mammeri University of Tizi Ouzou, Algeria, under the
+  supervision of Dr. Nadhir NOUIOUA. The pipeline combines
+  Mask R-CNN vertebra instance segmentation, geometric Cobb
+  angle estimation, and angle-based scoliosis severity classification.
+
+repository-code: "https://github.com/Hamdaoui-Arab-Master-Thesis/automated-scoliosis-detection-classification"
+
+license: MIT
+
+keywords:
+  - scoliosis
+  - vertebra segmentation
+  - Mask R-CNN
+  - Cobb angle
+  - geometric estimation
+  - medical image analysis
+  - deep learning
+  - Master's thesis
