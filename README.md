@@ -85,7 +85,7 @@ This project uses the **Spinal-AI2024** dataset, which provides spinal radiograp
 If you use this work, please cite:
 
 ```bibtex
-@mastersthesis{hamdaoui2026,
+@mastersthesis{hamdaouiarab026,
   author = {Hamdaoui, Manel and Arab, Malha-Thilleli},
   title = {Deep Learning Framework for Scoliosis Detection and Severity Classification},
   school = {Mouloud Mammeri University of Tizi-Ouzou , Algeria},
