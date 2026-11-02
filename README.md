@@ -63,6 +63,18 @@ The dataset is not redistributed in this repository. Users must consult
 the original dataset repository for access instructions, licensing terms,
 and citation requirements.
 
+### Note on Severity Classification
+
+Cases with reference Cobb angles below 10° were excluded from the
+three-class severity classification analysis. This analysis focuses on
+the Mild, Moderate, and Severe scoliosis categories.
+
+In the current implementation, cases with predicted Cobb angles below
+10° or missing severity labels are also excluded. This restriction
+applies to the severity classification analysis, not to the entire
+segmentation and Cobb angle estimation pipeline.
+
+
 ## Methods
 
 ### Vertebra Segmentation
